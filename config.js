@@ -26,34 +26,34 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     })
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/lordagam23_' 
-global.syt = 'https://youtube.com/channel/UCbbWYVvhTHz3AzfgYz4fMgg'
-global.sgh = 'https://github.com/KazeDevID/'
-global.sgc = 'https://chat.whatsapp.com/Lg1V1A0lRRA7d9Iaq117um'
-global.swa = 'wa.me/6282217590187'
-global.stg = 't.me/KenalSayaaa'
+global.sig = 'https://instagram.com/_' 
+global.syt = 'https://youtube.com/channel/_'
+global.sgh = 'https://github.com/18383973/'
+global.sgc = 'https://chat.whatsapp.com/_'
+global.swa = 'wa.me/6285878258447'
+global.stg = 't.me/_'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
-global.ultahown = 'Maret 23 2023 00:00:01'
+global.ultahown = 'Oktober 17 2023 00:00:01'
 
 /*============== PAYMENT ==============*/
-global.pdana = '082217590187'
+global.pdana = '085878258447'
 global.povo = '-'
-global.pgopay = '082217590187'
-global.ppulsa = '082217590187'
-global.ppulsa2 = '082217590187'
-global.psaweria = 'https://saweria.co/KazeDevID'
+global.pgopay = '085878258447'
+global.ppulsa = '085878258447'
+global.ppulsa2 = '085878258447'
+global.psaweria = 'https://saweria.co/VincenttXD'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282217590187'
-global.nomorown = '6282217590187'
-global.namebot = 'KinakoBot'
-global.nameown = 'Lord Kaze'
+global.nomorbot = '6285878258447'
+global.nomorown = '6285878258447'
+global.namebot = 'VinnXD'
+global.nameown = 'Vincentt ?'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282217590187', 'Lord Kaze', 'true']
+  ['6285878258447', 'Vincentt ?', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -82,26 +82,26 @@ global.danied = '*𝗘𝗥𝗥𝗢𝗥*'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/P6gSxBm/Menu-Kinako-Bot.jpg' //Main Thumbnail
-global.imagebot = 'https://i.ibb.co/PxSxQhd/20221103-171638.jpg'
-global.giflogo = 'https://i.ibb.co/PxSxQhd/20221103-171638.jpg'
-global.giflogo2 = 'https://i.ibb.co/P6gSxBm/Menu-Kinako-Bot.jpg'
-global.thumbs = ['https://i.ibb.co/P6gSxBm/Menu-Kinako-Bot.jpg']
+global.thumb = 'https://ibb.co/c1Mv4Z0' //Main Thumbnail
+global.imagebot = 'https://ibb.co/c1Mv4Z0'
+global.giflogo = 'https://ibb.co/c1Mv4Z0'
+global.giflogo2 = 'https://ibb.co/c1Mv4Z0'
+global.thumbs = ['https://ibb.co/c1Mv4Z0']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://i.ibb.co/wQyLDLx/kaze.jpg'
 global.thumbWarn = 'https://i.ibb.co/wQyLDLx/kaze.jpg'
 global.intro = 'https://i.ibb.co/PxSxQhd/20221103-171638.jpg'
 /*============== GLOBAL BIO ==============*/
 global.nameowner = `${global.nameown}`
-global.umurowner = '18'
-global.asalowner = 'Isekai'
-global.nomorowner = 'wa.me/6282217590187'
-global.pacarowner = 'Kinako chan><'
+global.umurowner = '15'
+global.asalowner = 'Jateng'
+global.nomorowner = 'wa.me/6285878258447'
+global.pacarowner = '_'
 
 /*============== TEXT ==============*/
 global.wait = '_In progress, please wait..._'
 global.eror = '```GAGAL```'
-global.cptnya = `_Nih kak_\n\nJangan lupa mampir di channel *KAZEDEVID*`
+global.cptnya = `_Nih kak_\n\nJangan lupa mampir di channel *VINNXD*`
 global.botintro = `Hai👋 Saya Adalah Bot WhatsApp Yang Bernama ${global.namebot}, Saya di buat oleh ${global.nameown} yang menggunakan bahasa nodejs`
 global.anticall = `kamu Di blockir oleh ${global.namebot} karena telah melanggar aturan ${global.namebot}\n\n*📮Dilarang menelepon ${global.namebot}!*`
 global.antiasing = ` See You Next Time `
