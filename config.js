@@ -82,11 +82,11 @@ global.danied = '*𝗘𝗥𝗥𝗢𝗥*'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://ibb.co/c1Mv4Z0' //Main Thumbnail
-global.imagebot = 'https://ibb.co/c1Mv4Z0'
-global.giflogo = 'https://ibb.co/c1Mv4Z0'
-global.giflogo2 = 'https://ibb.co/c1Mv4Z0'
-global.thumbs = ['https://ibb.co/c1Mv4Z0']
+global.thumb = 'https://i.ibb.co/BZGVg02/3b084388-5808-47ef-810e-41ead730625f.jpg' //Main Thumbnail
+global.imagebot = 'https://i.ibb.co/BZGVg02/3b084388-5808-47ef-810e-41ead730625f.jpg'
+global.giflogo = 'https://i.ibb.co/BZGVg02/3b084388-5808-47ef-810e-41ead730625f.jpg'
+global.giflogo2 = 'https://i.ibb.co/BZGVg02/3b084388-5808-47ef-810e-41ead730625f.jpg'
+global.thumbs = ['https://i.ibb.co/BZGVg02/3b084388-5808-47ef-810e-41ead730625f.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://i.ibb.co/wQyLDLx/kaze.jpg'
 global.thumbWarn = 'https://i.ibb.co/wQyLDLx/kaze.jpg'
